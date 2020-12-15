@@ -1,0 +1,11 @@
+C:\WorkSpace\Demo\Game\DeckOfCard\DeckOfCard\bin\Debug\netcoreapp3.1\DeckOfCard.exe
+C:\WorkSpace\Demo\Game\DeckOfCard\DeckOfCard\bin\Debug\netcoreapp3.1\DeckOfCard.deps.json
+C:\WorkSpace\Demo\Game\DeckOfCard\DeckOfCard\bin\Debug\netcoreapp3.1\DeckOfCard.runtimeconfig.json
+C:\WorkSpace\Demo\Game\DeckOfCard\DeckOfCard\bin\Debug\netcoreapp3.1\DeckOfCard.runtimeconfig.dev.json
+C:\WorkSpace\Demo\Game\DeckOfCard\DeckOfCard\bin\Debug\netcoreapp3.1\DeckOfCard.dll
+C:\WorkSpace\Demo\Game\DeckOfCard\DeckOfCard\bin\Debug\netcoreapp3.1\DeckOfCard.pdb
+C:\WorkSpace\Demo\Game\DeckOfCard\DeckOfCard\obj\Debug\netcoreapp3.1\DeckOfCard.csprojAssemblyReference.cache
+C:\WorkSpace\Demo\Game\DeckOfCard\DeckOfCard\obj\Debug\netcoreapp3.1\DeckOfCard.AssemblyInfoInputs.cache
+C:\WorkSpace\Demo\Game\DeckOfCard\DeckOfCard\obj\Debug\netcoreapp3.1\DeckOfCard.AssemblyInfo.cs
+C:\WorkSpace\Demo\Game\DeckOfCard\DeckOfCard\obj\Debug\netcoreapp3.1\DeckOfCard.dll
+C:\WorkSpace\Demo\Game\DeckOfCard\DeckOfCard\obj\Debug\netcoreapp3.1\DeckOfCard.pdb
